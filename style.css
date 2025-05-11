@@ -3,7 +3,7 @@ table, td {
     border-collapse: collapse;
 }
 
-img{
+.card{
     width: 150px;
     height: 150px;
 }
@@ -13,3 +13,5 @@ img{
 .disabled {
     filter:grayscale(100%);
 }
+
+button {margin-top: 10px;}
