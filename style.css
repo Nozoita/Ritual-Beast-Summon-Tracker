@@ -14,4 +14,8 @@ table, td {
     filter:grayscale(100%);
 }
 
-button {margin-top: 10px;}
+.ResetButton{
+    padding-left: 250px;
+    padding-top: 20px}
+
+.title{padding-left: 180px;}
